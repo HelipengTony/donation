@@ -7,6 +7,11 @@ If you feel that my projects are helpful to you and you are willing to give me a
 
 <br/>
 
+| Alipay 支付宝 | WechatPay 微信支付 | Paypal 贝宝 |
+| :--: | :--: | :--: |
+| ![qr_code_alipay](https://static.ouorz.com/alipay.png) | ![qr_code_wechat](https://static.ouorz.com/wechatpay.png) | he@holptech.com |
+<br/>
+
 | Name 名称 | Amount 价值 | Date 时间 |
 | :--: | :---: | :---: |
 | Leon | ¥01.00 | 28/11/2018 |
