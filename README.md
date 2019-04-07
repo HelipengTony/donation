@@ -9,6 +9,6 @@ If you feel that my projects are helpful to you and you are willing to give me a
 
 | Name 名称 | Amount 价值 | Date 时间 |
 | :--: | :---: | :---: |
-| Leon | ¥1.00 | 28/11/2018 |
+| Leon | ¥01.00 | 28/11/2018 |
 | Mr.McEleney	| ¥10.01	| 15/01/2019 |
 | My Struggle |	¥40.00	| 07/04/2019 |
