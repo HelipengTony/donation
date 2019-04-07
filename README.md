@@ -16,7 +16,7 @@ If you feel that my projects are helpful to you and you are willing to give me a
 
 <br/>
 
-### 捐赠人列表
+### Sponsors 捐赠人列表
 | Name 名称 | Amount 价值 | Date 时间 |
 | :--: | :---: | :---: |
 | Leon | ¥01.00 | 28/11/2018 |
